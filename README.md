@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Christian Vazquez
 
 <!--
 **christian-vzqz/christian-vzqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About me
+- Full stack Senior Software Developer
+- NodeJS
+- Python
+
+##### Frameworks
+- ReactJS
+- NextJS
+
+##### Databases
+- MongoDB
+- MySQL
+- PostgreSQL
