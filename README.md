@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - Full stack Senior Software Developer
 - NodeJS
 - Python
+- DotNet
 
 ##### Frameworks
 - ReactJS
